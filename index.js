@@ -1,7 +1,7 @@
 animal = "dog"
 
 function myAnimal() {
-  return dog;
+  return animal;
 }
 
 function yourAnimal() {
