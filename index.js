@@ -1,6 +1,7 @@
 const animal = "dog"
 
 function myAnimal() {
+  let animal = "cat"
   return animal;
 }
 
